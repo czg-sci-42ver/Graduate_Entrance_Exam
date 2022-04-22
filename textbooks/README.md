@@ -9,6 +9,8 @@
 - `[[` means from recommendation of z-lib or libgen ,etc.
 - `=` means I forgot why I searched for it carelessly. 
 ## book origin 
+- VDOC.PUB
+  - got from [书伴](https://bookfere.com/ebook)
 - z-lib
   - Chinese need proxy (check your log in v2ray or others to ensure `detour proxy` with this domain)
 - libgen
@@ -16,12 +18,16 @@
 - google by `... filetype:pdf`
 ### other useful ebook links
 - https://freecomputerbooks.com/dbBigDataBooks.html
+- https://digilibraries.com/search/Introduction+to+Linear+Algebra
+- https://www.bookyards.com/en/search
+#### got from
+- [recommended by probability teacher Mr.Zhao ](https://www.zhihu.com/question/356005353/answer/2246176461?utm_medium=social&utm_source=qzone&utm_oi=829243124659388416)
 - 
 ## links
 ### linear algebra
 - [books recommendation](https://www.zhihu.com/question/19869518)
   - [visualization online](http://immersivemath.com/ila/ch08_rank/ch08.html)
-  - 
+  - `#vdoc.pub_ITLA.pdf` is highly recommended  
 ### probability 
 - [book list](https://www.zhihu.com/question/19995680)
 Stochastic Calculus for Finance
