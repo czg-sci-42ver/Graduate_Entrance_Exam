@@ -13,6 +13,10 @@
   - got from [书伴](https://bookfere.com/ebook) which is got from [recommended by probability teacher Mr.Zhao ](https://www.zhihu.com/question/356005353/answer/2246176461?utm_medium=social&utm_source=qzone&utm_oi=829243124659388416)
 - z-lib
   - Chinese need proxy (check your log in v2ray or others to ensure `detour proxy` with this domain)
+  - can get ZhangYu textbooks（but please buy the authorised version if with ability to afford）
+    - I buyed the authorised paper version and search for keywords in ebooks
+    - links
+      - [ZhangYu](https://zh.u1lib.org/book/19091643/885345/?wrongHash)
 - libgen
 - pdfdrive
 - google by `... filetype:pdf`
