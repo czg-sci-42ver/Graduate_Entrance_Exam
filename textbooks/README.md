@@ -42,3 +42,8 @@ Introduction to Applied Linear Algebra
 
 ### math history 
 - [books](https://math.stackexchange.com/questions/31058/good-books-on-math-history)
+
+### automatic control system
+- [book list](https://www.zhihu.com/question/41644977)
+#### nonlinear
+- [book list](https://www.researchgate.net/post/I_want_to_study_Nonlinear_control_can_any_body_recommend_a_book_or_Videotutorials)
