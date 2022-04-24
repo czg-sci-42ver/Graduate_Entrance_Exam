@@ -1,4 +1,9 @@
 ## mainly from 3b1b recommendation 
+## blog recommendation 
+- 3b1b
+- IMO get from [IMO Training Camp](https://sites.google.com/site/imocanada/)
+  - [evanchen](https://web.evanchen.cc/faq-contest.html#C-0)
+- [AoPS](https://artofproblemsolving.com/blog/articles/learn-problem-solving-approach-to-mathematics)
 ## name convention 
 - begin with `~` means just Google search result rank the top range
 - default nothing means some article recommended 
