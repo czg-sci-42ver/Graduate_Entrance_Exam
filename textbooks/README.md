@@ -37,6 +37,8 @@
 - Paul_Zeitz_The_Art_and_Craft_of_Problem_SolvingBookosorg & Modern_Olympiad_Number_Theory from [evanchen recommend](https://web.evanchen.cc/recommend.html)
 - Problem-Solving_Strategies_Engel from [yufeizhao](https://yufeizhao.com/olympiad/#book-recommendations)
 - [quora Q&A](https://www.quora.com/What-are-some-good-books-on-inequalities)
+
+> TODO: Buy **Calculus David Patrick** after reading some AoPS books and finding them really good.
 ### other useful ebook links
 - https://freecomputerbooks.com/dbBigDataBooks.html
 - https://digilibraries.com/search/Introduction+to+Linear+Algebra
