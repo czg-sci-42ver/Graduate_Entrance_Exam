@@ -28,6 +28,7 @@
     - I buyed the authorised paper version and search for keywords in ebooks
     - links
       - [ZhangYu](https://zh.u1lib.org/book/19091643/885345/?wrongHash)
+  - can use [archive](https://archive.org/download/the-art-of-problem-solving-prealgebra-by-richard-rusczyck-david-patrick-ravi-boppana-z-lib.org) to save some download times.
 - libgen
 - pdfdrive
 - google by `... filetype:pdf`
