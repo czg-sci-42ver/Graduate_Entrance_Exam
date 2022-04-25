@@ -39,6 +39,11 @@
 - [quora Q&A](https://www.quora.com/What-are-some-good-books-on-inequalities)
 
 > TODO: Buy **Calculus David Patrick** after reading some AoPS books and finding them really good.
+
+## upload to z-lib,etc
+- %inequalities-hardy-littlewood-polya.pdf
+- %Geometric Inequalities (NML 04) - Kazarinoff.pdf
+- 
 ### other useful ebook links
 - https://freecomputerbooks.com/dbBigDataBooks.html
 - https://digilibraries.com/search/Introduction+to+Linear+Algebra
