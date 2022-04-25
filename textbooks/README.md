@@ -3,7 +3,10 @@
 - 3b1b
 - IMO get from [IMO Training Camp](https://sites.google.com/site/imocanada/)
   - [evanchen](https://web.evanchen.cc/faq-contest.html#C-0)
-- [AoPS](https://artofproblemsolving.com/blog/articles/learn-problem-solving-approach-to-mathematics)
+- [AoPS](https://artofproblemsolving.com/blog/articles/learn-problem-solving-approach-to-mathematics) recommended by 3b1b & evanchen
+## math codes
+- [evanchen recommendation](https://web.evanchen.cc/techsupport.html)
+  - it also has other things about [Linux](https://web.evanchen.cc/faq-linux.html) 
 ## name convention 
 - begin with `~` means just Google search result rank the top range
 - default nothing means some article recommended 
