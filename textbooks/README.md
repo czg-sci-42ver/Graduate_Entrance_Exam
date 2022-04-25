@@ -11,14 +11,16 @@
 - begin with `~` means just Google search result rank the top range
 - default nothing means some article recommended 
 - `@` means from 3b1b [blog](https://www.3blue1brown.com/blog/book-recommendations) or [video](https://www.bilibili.com/video/BV1Kb4y167fE?spm_id_from=333.880.my_history.page.click)
-- `#` means from zhihu
-- `+` means from video comment of this , [YouTube](https://www.youtube.com/watch?v=-bc9EWhmDZg) or [bilibili](https://www.bilibili.com/video/BV1Kb4y167fE?spm_id_from=333.880.my_history.page.click)
+- `#` means from **zhihu**
+- `+` means from **video** comment of this , [YouTube](https://www.youtube.com/watch?v=-bc9EWhmDZg) or [bilibili](https://www.bilibili.com/video/BV1Kb4y167fE?spm_id_from=333.880.my_history.page.click)
 - `%` means from some Q&A Website and maybe I forgot the detailed weblink or not.
-- `[[` means from recommendation of z-lib or libgen ,etc.
+- `[[` means from **recommendation** of z-lib or libgen or Google ,etc.
 - `=` means I forgot why I searched for it carelessly. 
+- `^` means recommended after self reading 
 ## book origin 
 - VDOC.PUB
   - got from [书伴](https://bookfere.com/ebook) which is got from [recommended by probability teacher Mr.Zhao ](https://www.zhihu.com/question/356005353/answer/2246176461?utm_medium=social&utm_source=qzone&utm_oi=829243124659388416)
+- dokumen.pub got by googling books
 - z-lib
   - Chinese need proxy (check your log in v2ray or others to ensure `detour proxy` with this domain)
   - can get ZhangYu textbooks（but please buy the authorised version if with ability to afford）
@@ -28,6 +30,9 @@
 - libgen
 - pdfdrive
 - google by `... filetype:pdf`
+## specific book origin 
+  - journey-into-mathematics-an-introduction-to-proofs_compress from [evanchen blog](https://web.evanchen.cc/wherestart.html)
+  - Paul_Zeitz_The_Art_and_Craft_of_Problem_SolvingBookosorg & Modern_Olympiad_Number_Theory from [evanchen recommend](https://web.evanchen.cc/recommend.html)
 ### other useful ebook links
 - https://freecomputerbooks.com/dbBigDataBooks.html
 - https://digilibraries.com/search/Introduction+to+Linear+Algebra
