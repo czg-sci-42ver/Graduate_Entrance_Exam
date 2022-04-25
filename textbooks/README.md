@@ -17,6 +17,7 @@
 - `[[` means from **recommendation** of z-lib or libgen or Google ,etc.
 - `=` means I forgot why I searched for it carelessly. 
 - `^` means recommended after self reading 
+- `A_` means AoPS books
 ## book origin 
 - VDOC.PUB
   - got from [书伴](https://bookfere.com/ebook) which is got from [recommended by probability teacher Mr.Zhao ](https://www.zhihu.com/question/356005353/answer/2246176461?utm_medium=social&utm_source=qzone&utm_oi=829243124659388416)
@@ -31,8 +32,10 @@
 - pdfdrive
 - google by `... filetype:pdf`
 ## specific book origin 
-  - journey-into-mathematics-an-introduction-to-proofs_compress from [evanchen blog](https://web.evanchen.cc/wherestart.html)
-  - Paul_Zeitz_The_Art_and_Craft_of_Problem_SolvingBookosorg & Modern_Olympiad_Number_Theory from [evanchen recommend](https://web.evanchen.cc/recommend.html)
+- journey-into-mathematics-an-introduction-to-proofs_compress from [evanchen blog](https://web.evanchen.cc/wherestart.html)
+- Paul_Zeitz_The_Art_and_Craft_of_Problem_SolvingBookosorg & Modern_Olympiad_Number_Theory from [evanchen recommend](https://web.evanchen.cc/recommend.html)
+- Problem-Solving_Strategies_Engel from [yufeizhao](https://yufeizhao.com/olympiad/#book-recommendations)
+- [quora Q&A](https://www.quora.com/What-are-some-good-books-on-inequalities)
 ### other useful ebook links
 - https://freecomputerbooks.com/dbBigDataBooks.html
 - https://digilibraries.com/search/Introduction+to+Linear+Algebra

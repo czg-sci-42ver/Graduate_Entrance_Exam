@@ -8,3 +8,6 @@
   - [OTIS](https://web.evanchen.cc/excerpts.html) from [wherestart](https://web.evanchen.cc/wherestart.html)
 
 > recommend [AoPS book](https://artofproblemsolving.com/store/list.php#all) 
+
+### online website 
+- [simple inequality](https://math24.net/proving-inequalities.html#example1)
