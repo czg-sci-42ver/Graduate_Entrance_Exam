@@ -1,9 +1,19 @@
 ## mainly from 3b1b recommendation 
+## note recording recommendation 
+- not change pdf in case that the whole file changed and needed to reupload the file
+  - can use markdown or other noting software like **Notion**  
 ## blog recommendation 
 - 3b1b
 - IMO get from [IMO Training Camp](https://sites.google.com/site/imocanada/)
   - [evanchen](https://web.evanchen.cc/faq-contest.html#C-0)
-- [AoPS](https://artofproblemsolving.com/blog/articles/learn-problem-solving-approach-to-mathematics) recommended by 3b1b & evanchen
+- [AoPS](https://artofproblemsolving.com/blog/articles/learn-problem-solving-approach-to-mathematics) recommended by 3b1b & evanchen  
+  - choose right level to read (they may targeted not for college )
+    - Intermediate-level & Introduction-level can be neglected in my opinion 
+    - the [volume 2](https://www.aliyundrive.com/s/9civv9Evssm) may have some interesting contents .
+      - the ebook get from pdfdrive and OCR by acrobat
+  - [interesting ](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
+## try
+- [latex learning ](https://artofproblemsolving.com/wiki/index.php/LaTeX)
 ## math codes
 - [evanchen recommendation](https://web.evanchen.cc/techsupport.html)
   - it also has other things about [Linux](https://web.evanchen.cc/faq-linux.html) 
@@ -43,7 +53,7 @@
 ## upload to z-lib,etc
 - %inequalities-hardy-littlewood-polya.pdf
 - %Geometric Inequalities (NML 04) - Kazarinoff.pdf
-- 
+- A_toaz.info-richard-rusczyk-introduction-to-algebra-the-art-of-problem-solving-2007-ao-pr_b73fc29d7198de64c19751889c003680.pdf
 ### other useful ebook links
 - https://freecomputerbooks.com/dbBigDataBooks.html
 - https://digilibraries.com/search/Introduction+to+Linear+Algebra
