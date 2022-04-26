@@ -42,6 +42,7 @@
 - libgen
 - pdfdrive
 - google by `... filetype:pdf`
+- [ebook3000](http://www.ebook3000.com)
 ## specific book origin 
 - journey-into-mathematics-an-introduction-to-proofs_compress from [evanchen blog](https://web.evanchen.cc/wherestart.html)
 - Paul_Zeitz_The_Art_and_Craft_of_Problem_SolvingBookosorg & Modern_Olympiad_Number_Theory from [evanchen recommend](https://web.evanchen.cc/recommend.html)
