@@ -33,3 +33,4 @@
 - P7
   - sec definition with [this](#naming_convention)
 ### TODO
+- [Multiple-Angle Formulas](https://mathworld.wolfram.com/Multiple-AngleFormulas.html) proof P8 
