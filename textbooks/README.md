@@ -29,6 +29,9 @@
 - `^` means recommended after self reading 
 - `A_` means AoPS books
 - `W_` means recommended by [wolfram domain](https://mathworld.wolfram.com/EulerFormula.html)
+## visualization 
+- 3b1b
+- [demonstrations_wolfram](https://demonstrations.wolfram.com/AVisualProofOfTheDoubleAngleFormulaForSine/)
 ## book origin 
 - VDOC.PUB
   - got from [书伴](https://bookfere.com/ebook) which is got from [recommended by probability teacher Mr.Zhao ](https://www.zhihu.com/question/356005353/answer/2246176461?utm_medium=social&utm_source=qzone&utm_oi=829243124659388416)
