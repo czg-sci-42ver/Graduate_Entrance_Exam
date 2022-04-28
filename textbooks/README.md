@@ -27,6 +27,7 @@
 - `[[` means from **recommendation** of z-lib or libgen or Google ,etc.
 - `=` means I forgot why I searched for it carelessly. 
 - `^` means recommended after self reading 
+- `v_` means less recommended 
 - `A_` means AoPS books
 - `W_` means recommended by [wolfram domain](https://mathworld.wolfram.com/EulerFormula.html)
 ## visualization 

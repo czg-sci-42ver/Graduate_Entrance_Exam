@@ -2,6 +2,19 @@
 - [(0x-y:z)](https://www.iqihang.com/ark/record/7191/8673/1507816/161543942/3/72/2/4555)
   - 0x 视频集数
   - y:z time
+- P... means from ZhangYu book
+  - p means others
+# book 
+## recommended reading part
+### ^^^@The Cauchy-Schwarz Master Class An Introduction to the Art of Mathematical Inequalities (J. Michael Steele) (z-lib.org).pdf
+- Landau’s notation p133, not confused with little-o notation 
+  - o is O, but O is not necessaryly o.
+- this book derivation of general AM-GM Inequality(p37) is really simple but also very heuristic.  
+- PM-GM inequality p132 notice theorem 8.2 & 8.8
+## less recommended 
+- %Inequalities-Korovkin.pdf may be too redundant 
+# ZhangYu book supplement
+- P20 see `^^^@The Cauchy-Schwarz Master Class An Introduction to the Art of Mathematical Inequalities (J. Michael Steele) (z-lib.org).pdf` p133 
 # topic classification 
 
 ## derivative  
@@ -10,6 +23,7 @@
 - p9 elementary function
 - 14 Cartesian coordinate system <-> polar coordinate system
 - 19 [polynomial factorization](https://tutorial.math.lamar.edu/classes/alg/factoring.aspx)
+> inequality: **ALWAYS** remember that sum can be generalized as integral .
 # notes
 > also see matepad [stylus](#stylus) notes
 - p7 
@@ -21,6 +35,7 @@
 - [What-is-the-relationship-between-a-tangent-line-and-the-tangent-function](https://www.quora.com/What-is-the-relationship-between-a-tangent-line-and-the-tangent-function)
 ## frequently used inequality 
 - [Jensen's inequality ](https://artofproblemsolving.com/wiki/index.php/Jensen's_Inequality)
+- [Cauchy(–Schwarz) inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality#real_number_proof)
 ## basis proof
 - $\frac{d\frac{f(x)}{g(x)}}{dx}$ 
   - Thomas calculus P120
@@ -41,7 +56,6 @@
 ### stylus proofs.pdf<a id="stylus"></a>
 #### stylus writing convention 
 - circle means from ebook 
-- P... means from ZhangYu book
 #### list 
 - P4 [ derivative of high order of cycloid  equals zero $C^\infty$](https://en.wikipedia.org/wiki/Cycloid) 
 - P5 [Astroid](https://proofwiki.org/wiki/Equation_of_Astroid/Parametric_Form)
