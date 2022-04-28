@@ -1,31 +1,35 @@
-### convention 
+# convention 
 - [(0x-y:z)](https://www.iqihang.com/ark/record/7191/8673/1507816/161543942/3/72/2/4555)
   - 0x 视频集数
   - y:z time
-### notes
-> also see matepad stylus notes
+# topic classification 
+
+## derivative  
+- [derivation](https://www.wyzant.com/resources/lessons/math/calculus/derivative_proofs/a_to_the_x)
+# notice 
+- p9 elementary function
+- 14 Cartesian coordinate system <-> polar coordinate system
+- 19 [polynomial factorization](https://tutorial.math.lamar.edu/classes/alg/factoring.aspx)
+# notes
+> also see matepad [stylus](#stylus) notes
 - p7 
   - [Trigonometry](https://en.wikipedia.org/wiki/Trigonometry) note SOH-CAH-TOA
   - [naming ](https://www.quora.com/Why-is-sin-the-opposite-of-CSC-and-cos-the-opposite-of-sec)convention<a id="naming_convention"></a>
 - p8 
   - $f(x)=C$ can be proved by just calculating the indefinite integral or Lagrange median value theorem (05-6:45)
-### frequently used inequality 
-- [Jensen's inequality ](https://artofproblemsolving.com/wiki/index.php/Jensen's_Inequality)
-### miscellaneous 
+# miscellaneous 
 - [What-is-the-relationship-between-a-tangent-line-and-the-tangent-function](https://www.quora.com/What-is-the-relationship-between-a-tangent-line-and-the-tangent-function)
-### basis proof
+## frequently used inequality 
+- [Jensen's inequality ](https://artofproblemsolving.com/wiki/index.php/Jensen's_Inequality)
+## basis proof
 - $\frac{d\frac{f(x)}{g(x)}}{dx}$ 
   - Thomas calculus P120
   - stylus `proofs.pdf` P3  
-### notice 
-- p9 elementary function
-- 14 Cartesian coordinate system <-> polar coordinate system
-- 19 [polynomial factorization](https://tutorial.math.lamar.edu/classes/alg/factoring.aspx)
 
-### alternative proof
+## alternative proof
 - [Cycloid function ](https://en.wikipedia.org/wiki/Cycloid) by calculating center point coordinate 
 
-### supplementary proof
+## supplementary proof
 - trigonometry sum and difference formulas<a id="trigonometry1"></a>  
   - geometry
     - https://www.themathpage.com/aTrig/sum-proof.htm
@@ -34,7 +38,11 @@
     - https://mymission.lamission.edu/userdata/sargsye2/docs/Math%20240/Proof%20of%20the%20difference%20formula%20for%20cosine.pdf
   - rotation matrix & complex number , etc
     - https://math.stackexchange.com/questions/1292/how-can-i-understand-and-prove-the-sum-and-difference-formulas-in-trigonometry
-#### stylus proofs.pdf 
+### stylus proofs.pdf<a id="stylus"></a>
+#### stylus writing convention 
+- circle means from ebook 
+- P... means from ZhangYu book
+#### list 
 - P4 [ derivative of high order of cycloid  equals zero $C^\infty$](https://en.wikipedia.org/wiki/Cycloid) 
 - P5 [Astroid](https://proofwiki.org/wiki/Equation_of_Astroid/Parametric_Form)
   - according to the symmetry , OC OB must be collinear
@@ -46,7 +54,9 @@
   - `cot` half angle formula  supplement the `half_tan.png`
 - P10
   - [trigonometry sum and difference formulas](#trigonometry1)
-### TODO
+- P11 
+  - power mean and Geometric Mean inequality derivation based on `^^[[analytic_inequality_kazarinoff.pdf` p76 by searching `power mean`, also see [AoPS](https://artofproblemsolving.com/wiki/index.php/Root-Mean_Square-Arithmetic_Mean-Geometric_Mean-Harmonic_mean_Inequality)
+# TODO
 - [Multiple-Angle Formulas](https://mathworld.wolfram.com/Multiple-AngleFormulas.html) proof P8 
 - check [trigonometry sum and difference formulas](#trigonometry1) in the high school math book
 - general polynomial factorization
