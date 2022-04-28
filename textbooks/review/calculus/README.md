@@ -9,6 +9,8 @@
   - [naming ](https://www.quora.com/Why-is-sin-the-opposite-of-CSC-and-cos-the-opposite-of-sec)convention<a id="naming_convention"></a>
 - p8 
   - $f(x)=C$ can be proved by just calculating the indefinite integral or Lagrange median value theorem (05-6:45)
+### frequently used inequality 
+- [Jensen's inequality ](https://artofproblemsolving.com/wiki/index.php/Jensen's_Inequality)
 ### miscellaneous 
 - [What-is-the-relationship-between-a-tangent-line-and-the-tangent-function](https://www.quora.com/What-is-the-relationship-between-a-tangent-line-and-the-tangent-function)
 ### basis proof

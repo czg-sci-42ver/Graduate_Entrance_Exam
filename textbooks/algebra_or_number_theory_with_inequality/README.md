@@ -11,3 +11,8 @@
 
 ### online website 
 - [simple inequality](https://math24.net/proving-inequalities.html#example1)
+
+### inequality books 
+- integral inequality and cauchy inequality 
+  - %inequalities-hardy-littlewood-polya.pdf p14-15
+- 
