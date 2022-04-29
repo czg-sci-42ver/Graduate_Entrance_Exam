@@ -2,7 +2,7 @@
 ## note recording recommendation 
 - not change pdf in case that the whole file changed and needed to reupload the file
   - can use markdown or other noting software like **Notion**  
-## blog recommendation 
+## blog/website recommendation 
 - 3b1b
 - IMO get from [IMO Training Camp](https://sites.google.com/site/imocanada/)
   - [evanchen](https://web.evanchen.cc/faq-contest.html#C-0)
@@ -13,6 +13,9 @@
       - the ebook get from pdfdrive and OCR by acrobat
   - [interesting ](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
 - [tediousderivations](http://tediousderivations.blogspot.com/2013/08/hyperbolic-functions.html)
+- [calculus ,etc detailed ](https://www.zweigmedia.com/tcpage.php?book=calc&lang=en&ed=7)
+- [Mathematica / Maple tutorial ](http://faculty.salisbury.edu/~despickler/personal/index.html)
+- [wiki with knowledge tree](http://sciencewise.info/ontology/Algebra)
 ## try
 - [latex learning ](https://artofproblemsolving.com/wiki/index.php/LaTeX)
 ## math codes
@@ -32,6 +35,8 @@
 - `A_` means AoPS books
 - `W_` means recommended by [wolfram domain](https://mathworld.wolfram.com/EulerFormula.html)
 - `B_` means recommended by blogs searched by Googling
+- `M_` means recommended by math Stack Exchange 
+- `R_` means from reference of like Wikipedia 
 ## visualization 
 - 3b1b
 - [demonstrations_wolfram](https://demonstrations.wolfram.com/AVisualProofOfTheDoubleAngleFormulaForSine/)

@@ -27,6 +27,7 @@
 
 ## integral 
 - [ trigonometry ](https://tutorial.math.lamar.edu/classes/calcii/integralswithtrig.aspx)
+- interesting [Integration by parts: Formula and tabular method](https://www.zweigmedia.com/tuts/tutIntParts.html?ed=7&lang=en)
 # notice 
 - p9 elementary function
 - 14 Cartesian coordinate system <-> polar coordinate system
