@@ -1,4 +1,4 @@
-## mainly from 3b1b recommendation 
+> mainly from 3b1b recommendation 
 ## note recording recommendation 
 - not change pdf in case that the whole file changed and needed to reupload the file
   - can use markdown or other noting software like **Notion**  
@@ -31,6 +31,7 @@
 - `v_` means less recommended 
 - `A_` means AoPS books
 - `W_` means recommended by [wolfram domain](https://mathworld.wolfram.com/EulerFormula.html)
+- `B_` means recommended by blogs searched by Googling
 ## visualization 
 - 3b1b
 - [demonstrations_wolfram](https://demonstrations.wolfram.com/AVisualProofOfTheDoubleAngleFormulaForSine/)
@@ -49,7 +50,7 @@
 - pdfdrive
 - google by `... filetype:pdf`
 - [ebook3000](http://www.ebook3000.com)
-## specific book origin 
+### specific book origin 
 - journey-into-mathematics-an-introduction-to-proofs_compress from [evanchen blog](https://web.evanchen.cc/wherestart.html)
 - Paul_Zeitz_The_Art_and_Craft_of_Problem_SolvingBookosorg & Modern_Olympiad_Number_Theory from [evanchen recommend](https://web.evanchen.cc/recommend.html)
 - Problem-Solving_Strategies_Engel from [yufeizhao](https://yufeizhao.com/olympiad/#book-recommendations)
@@ -93,3 +94,7 @@ Introduction to Applied Linear Algebra
 - [book list](https://www.zhihu.com/question/41644977)
 #### nonlinear
 - [book list](https://www.researchgate.net/post/I_want_to_study_Nonlinear_control_can_any_body_recommend_a_book_or_Videotutorials)
+
+### discrete math
+- recommended books and algorithm relation 
+  - https://math.stackexchange.com/questions/1533/what-is-the-best-book-for-studying-discrete-mathematics 

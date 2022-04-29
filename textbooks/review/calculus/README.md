@@ -99,6 +99,10 @@
   - [trigonometry sum and difference formulas](#trigonometry1)
 - P11<a id="PM"></a>
   - power mean and Geometric Mean inequality derivation based on `^^[[analytic_inequality_kazarinoff.pdf` p76 by searching `power mean`, also see [AoPS_1](https://artofproblemsolving.com/wiki/index.php/Root-Mean_Square-Arithmetic_Mean-Geometric_Mean-Harmonic_mean_Inequality) & [AoPS_2 more concise](https://artofproblemsolving.com/wiki/index.php/Power_Mean_Inequality)
+### Generalized_continued_fraction
+- P15 [fundamental recurrence formulas](https://en.wikipedia.org/wiki/Generalized_continued_fraction#Fundamental_recurrence_formulas)
+  - many website don't give detailed derivation , so just think by myself.
+  - write three elements and **guess** the recursion
 # TODO
 - [Multiple-Angle Formulas](https://mathworld.wolfram.com/Multiple-AngleFormulas.html) proof P8 
 - check [trigonometry sum and difference formulas](#trigonometry1) in the high school math book
