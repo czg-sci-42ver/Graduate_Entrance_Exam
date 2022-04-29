@@ -9,8 +9,11 @@
 ### ^^^@The Cauchy-Schwarz Master Class An Introduction to the Art of Mathematical Inequalities (J. Michael Steele) (z-lib.org).pdf
 - Landau’s notation p133, not confused with little-o notation 
   - o is O, but O is not necessaryly o.
+  - `GM is PM limit derivation ` on this page is highly recommended 
+    - use `log`, then `O` twice
 - this book derivation of general AM-GM Inequality(p37) is really simple but also very heuristic.  
 - PM-GM inequality p132 notice theorem 8.2 & 8.8
+  - also see [this](#PM)
 ## less recommended 
 - %Inequalities-Korovkin.pdf may be too redundant 
 # ZhangYu book supplement
@@ -19,6 +22,11 @@
 
 ## derivative  
 - [derivation](https://www.wyzant.com/resources/lessons/math/calculus/derivative_proofs/a_to_the_x)
+- [much derivation of basis theorems](https://tutorial.math.lamar.edu/classes/calci/DerivativeProofs.aspx#mjx-eqn-eqeq1) including Quotient Rule,chain rule, etc.
+- [common derivative derivation](https://www.wyzant.com/resources/lessons/math/calculus/derivative_proofs/)
+
+## integral 
+- [ trigonometry ](https://tutorial.math.lamar.edu/classes/calcii/integralswithtrig.aspx)
 # notice 
 - p9 elementary function
 - 14 Cartesian coordinate system <-> polar coordinate system
@@ -33,9 +41,26 @@
   - $f(x)=C$ can be proved by just calculating the indefinite integral or Lagrange median value theorem (05-6:45)
 # miscellaneous 
 - [What-is-the-relationship-between-a-tangent-line-and-the-tangent-function](https://www.quora.com/What-is-the-relationship-between-a-tangent-line-and-the-tangent-function)
+## interesting 
+- [hyperbola area relation with hyperbolic sine&cosine](https://brilliant.org/wiki/hyperbolic-trigonometric-functions/)<a id="hyperbola"></a> same with https://en.wikipedia.org/wiki/Hyperbola#Rectangular_hyperbola
+  - **Prerequisite** 
+    - [Hyperbolic angle](https://en.wikipedia.org/wiki/Hyperbolic_angle) 
+      - po not confused with circular angle , especially magnitude is just area , not related with angle
+  - questions 
+    - https://en.wikipedia.org/wiki/Hyperbolic_functions see hyhypothesis note
+  - also see https://en.wikipedia.org/wiki/Hyperbolic_sector
+  - others
+    - https://www.whitman.edu/mathematics/calculus_online/section04.11.html
+    - https://betterexplained.com/articles/hyperbolic-functions/#Part_4_Geometric_Viewpoint
+  - [derivation](http://tediousderivations.blogspot.com/2013/08/hyperbolic-functions.html) by ode mentioned in [brilliant page](#hyperbola)
+  - proof 
+    - see stylus `proofs.pdf` p12-
+    - 13  squeeze mapping proof
+    - also https://math.stackexchange.com/questions/3504662/circular-angles-vs-hyperbolic-angles
 ## frequently used inequality 
 - [Jensen's inequality ](https://artofproblemsolving.com/wiki/index.php/Jensen's_Inequality)
 - [Cauchy(–Schwarz) inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality#real_number_proof)
+- [most of derivation _1](https://www.cut-the-knot.org/proofs/ExponentialInequalityForMeans.shtml) / [most of derivation _2](https://en.wikipedia.org/wiki/List_of_inequalities#Geometry)
 ## basis proof
 - $\frac{d\frac{f(x)}{g(x)}}{dx}$ 
   - Thomas calculus P120
@@ -68,9 +93,10 @@
   - `cot` half angle formula  supplement the `half_tan.png`
 - P10
   - [trigonometry sum and difference formulas](#trigonometry1)
-- P11 
-  - power mean and Geometric Mean inequality derivation based on `^^[[analytic_inequality_kazarinoff.pdf` p76 by searching `power mean`, also see [AoPS](https://artofproblemsolving.com/wiki/index.php/Root-Mean_Square-Arithmetic_Mean-Geometric_Mean-Harmonic_mean_Inequality)
+- P11<a id="PM"></a>
+  - power mean and Geometric Mean inequality derivation based on `^^[[analytic_inequality_kazarinoff.pdf` p76 by searching `power mean`, also see [AoPS_1](https://artofproblemsolving.com/wiki/index.php/Root-Mean_Square-Arithmetic_Mean-Geometric_Mean-Harmonic_mean_Inequality) & [AoPS_2 more concise](https://artofproblemsolving.com/wiki/index.php/Power_Mean_Inequality)
 # TODO
 - [Multiple-Angle Formulas](https://mathworld.wolfram.com/Multiple-AngleFormulas.html) proof P8 
 - check [trigonometry sum and difference formulas](#trigonometry1) in the high school math book
 - general polynomial factorization
+  - check primary school Olympiad Math textbook 

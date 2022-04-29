@@ -80,6 +80,7 @@ Stochastic Calculus for Finance
 - [blog with much help and a book list](https://www.cnblogs.com/iMath/p/9810722.html)
   - [useful video](https://www.bilibili.com/video/av64578050/?p=2&spm_id_from=pageDriver)
 - recommend [Paul's Online Notes](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
+  - this website contains **many topics**
 - [books](https://www.zhihu.com/question/58305986)
 Introduction to Applied Linear Algebra
 
