@@ -52,11 +52,12 @@
   - others
     - https://www.whitman.edu/mathematics/calculus_online/section04.11.html
     - https://betterexplained.com/articles/hyperbolic-functions/#Part_4_Geometric_Viewpoint
+      - the proof by rotation<a id="weird"></a>
   - [derivation](http://tediousderivations.blogspot.com/2013/08/hyperbolic-functions.html) by ode mentioned in [brilliant page](#hyperbola)
   - proof 
     - see stylus `proofs.pdf` p12-
     - 13  squeeze mapping proof
-    - also https://math.stackexchange.com/questions/3504662/circular-angles-vs-hyperbolic-angles
+    - also https://math.stackexchange.com/questions/3504662/circular-angles-vs-hyperbolic-angles which use `coordinate transformation` and `curve integral`(also mentioned in Wikipedia ) 
 ## frequently used inequality 
 - [Jensen's inequality ](https://artofproblemsolving.com/wiki/index.php/Jensen's_Inequality)
 - [Cauchy(–Schwarz) inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality#real_number_proof)
@@ -78,6 +79,9 @@
     - https://mymission.lamission.edu/userdata/sargsye2/docs/Math%20240/Proof%20of%20the%20difference%20formula%20for%20cosine.pdf
   - rotation matrix & complex number , etc
     - https://math.stackexchange.com/questions/1292/how-can-i-understand-and-prove-the-sum-and-difference-formulas-in-trigonometry
+- hyperbola area relation with hyperbolic sine&cosine
+  - rotation proof P14
+    - notice the upper limit of integral 
 ### stylus proofs.pdf<a id="stylus"></a>
 #### stylus writing convention 
 - circle means from ebook 

@@ -12,6 +12,7 @@
     - the [volume 2](https://www.aliyundrive.com/s/9civv9Evssm) may have some interesting contents .
       - the ebook get from pdfdrive and OCR by acrobat
   - [interesting ](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
+- [tediousderivations](http://tediousderivations.blogspot.com/2013/08/hyperbolic-functions.html)
 ## try
 - [latex learning ](https://artofproblemsolving.com/wiki/index.php/LaTeX)
 ## math codes
