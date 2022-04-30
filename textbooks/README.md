@@ -1,4 +1,7 @@
 > mainly from 3b1b recommendation 
+
+## searching strategy 
+- not take too much time to search for formula derivation, can try prove by self
 ## note recording recommendation 
 - not change pdf in case that the whole file changed and needed to reupload the file
   - can use markdown or other noting software like **Notion**  
