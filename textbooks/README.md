@@ -106,3 +106,17 @@ Introduction to Applied Linear Algebra
 ### discrete math
 - recommended books and algorithm relation 
   - https://math.stackexchange.com/questions/1533/what-is-the-best-book-for-studying-discrete-mathematics 
+
+# math topics
+## linear algebra 
+- determinant 
+  - Prerequisite 
+    - [Parity_of_a_permutation](https://en.wikipedia.org/wiki/Parity_of_a_permutation)
+      - it can prove that determinant's symmetric property of row and column .
+        - see 线性代数 Linear Algebra (同济大学数学系) (z-lib.org) p19
+  - [definition formula proof recommendation ](https://chaoli.club/index.php/4413/0)
+    - then the rest properties can just be proved by determinant definition
+### proofs ; see `linear_algebra_proofs.pdf`
+- P5,6 
+- P14 determinant of the matrix multiplication  
+  
