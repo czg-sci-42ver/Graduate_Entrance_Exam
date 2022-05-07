@@ -40,6 +40,7 @@
 - `B_` means recommended by blogs searched by Googling
 - `M_` means recommended by math Stack Exchange 
 - `R_` means from reference of like Wikipedia 
+- `E_` reddit
 ## visualization 
 - 3b1b
 - [demonstrations_wolfram](https://demonstrations.wolfram.com/AVisualProofOfTheDoubleAngleFormulaForSine/)
