@@ -120,4 +120,11 @@ Introduction to Applied Linear Algebra
 ### proofs ; see `linear_algebra_proofs.pdf`
 - P5,6 
 - P14 determinant of the matrix multiplication  
-  
+
+## calculus 
+### series 
+- properties proof 
+  - https://cnx.org/contents/xMhX-SMb@1.1:U023QMxw@2/Properties-of-Convergent-Sequences
+  - see textbook 
+  - https://en.wikipedia.org/wiki/Monotone_convergence_theorem
+  - or just take appropriate $\epsilon$
